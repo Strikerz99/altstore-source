@@ -1,0 +1,12 @@
+{
+  "repository": "Strikerz99/altstore-source",
+  "tagPattern": "*", 
+  "apps": [
+    {
+      "name": "test",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "icon": "icon.png",
+      "localizedDescription": "Prima versione dell'app."
+    }
+  ]
+}
