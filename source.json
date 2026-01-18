@@ -1,2 +1,33 @@
-﻿{"name":"AltStore Demo Source","identifier":"com.Strikerz99.Test","apps":[{"name":"Test","bundleIdentifier":"com.google.ios.youtube","developerName":"tester","localizedDescription":"Prima versione dell'app test creata per AltStore.","iconURL":"https://strikerz99.github.io/altstore-source/icon.png","versions":[{"version":"test","date":"2026-01-18T09:05:45Z","localizedDescription":"test","minOSVersion":"15.0","downloadURL":"https://github.com/Strikerz99/altstore-source/releases/download/test/test.ipa","size":123442548}],"subtitle":"App test","tintColor":"78209d","screenshotURLs":["https://strikerz99.github.io/altstore-source/screenshot1.png","https://strikerz99.github.io/altstore-source/screenshot2.png"]}],}
-
+{
+  "name": "AltStore Demo Source",
+  "subtitle": "App test",
+  "description": "Prima versione dell'app test creata per AltStore.",
+  "iconURL": "https://strikerz99.github.io/altstore-source/icon.png",
+  "apps": [
+    {
+      "name": "Test",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "com.testmiointerno",
+      "developerName": "tester",
+      "subtitle": "App test",
+      "localizedDescription": "Prima versione dell'app test creata per AltStore.",
+      "iconURL": "https://strikerz99.github.io/altstore-source/icon.png",
+      "tintColor": "78209d",
+      "screenshotURLs": [
+        "https://strikerz99.github.io/altstore-source/screenshot1.png",
+        "https://strikerz99.github.io/altstore-source/screenshot2.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-01-18T09:05:45Z",
+          "localizedDescription": "Prima versione",
+          "minOSVersion": "15.0",
+          "downloadURL": "https://strikerz99.github.io/altstore-source/test.ipa",
+          "size": 123442548
+        }
+      ]
+    }
+  ]
+}
