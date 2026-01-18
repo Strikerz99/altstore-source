@@ -1,13 +1,13 @@
 {
   "name": "test",
-  "subtitle": "App per AltStore",
-  "description": "Source AltStore ufficiale",
+  "subtitle": "App test",
+  "description": "Source test",
   "iconURL": "https://TUOUSERNAME.github.io/altstore-source/icon.png",
   "apps": [
     {
-      "name": "La Mia App",
+      "name": "test",
       "bundleIdentifier": "it.tuonome.lamiaapp",
-      "developerName": "Tuo Nome",
+      "developerName": "tester",
       "iconURL": "https://TUOUSERNAME.github.io/altstore-source/icon.png",
       "versions": [
         {
@@ -21,3 +21,4 @@
     }
   ]
 }
+
