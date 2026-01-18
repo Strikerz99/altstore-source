@@ -2,23 +2,24 @@
   "name": "test",
   "subtitle": "App test",
   "description": "Source test",
-  "iconURL": "https://TUOUSERNAME.github.io/altstore-source/icon.png",
+  "iconURL": "https://github.com/Strikerz99/altstore-source/icon.png",
   "apps": [
     {
       "name": "test",
       "bundleIdentifier": "it.tuonome.lamiaapp",
       "developerName": "tester",
-      "iconURL": "https://TUOUSERNAME.github.io/altstore-source/icon.png",
+      "iconURL": "https://github.com/Strikerz99/altstore-source/icon.png",
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-01-18",
-          "downloadURL": "https://TUOUSERNAME.github.io/altstore-source/LaMiaApp.ipa",
+          "downloadURL": "https://github.com/Strikerz99/altstore-source/test.ipa",
           "localizedDescription": "Prima versione dell'app."
         }
       ]
     }
   ]
 }
+
 
