@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "subtitle": "App per AltStore",
+  "description": "Source AltStore ufficiale",
+  "iconURL": "https://TUOUSERNAME.github.io/altstore-source/icon.png",
+  "apps": [
+    {
+      "name": "La Mia App",
+      "bundleIdentifier": "it.tuonome.lamiaapp",
+      "developerName": "Tuo Nome",
+      "iconURL": "https://TUOUSERNAME.github.io/altstore-source/icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-01-18",
+          "downloadURL": "https://TUOUSERNAME.github.io/altstore-source/LaMiaApp.ipa",
+          "localizedDescription": "Prima versione dell'app."
+        }
+      ]
+    }
+  ]
+}
